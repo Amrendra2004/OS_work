@@ -2,7 +2,6 @@
 #include<algorithm>
 using namespace std;
 
-// sjf
 int main(){
     
     cout<<"Enter the process:";
